@@ -9,7 +9,7 @@ Based in Auckland, New Zealand
 
 I started out as an Electrical and Electronics Engineer, the curiosity about how systems work led me naturally toward software and data. I made a deliberate shift into tech, and my MSc in Computer and Information Science at AUT (Auckland University of Technology) became the foundation that brought it all together.
 
-My thesis focused on predicting agitation in dementia patients using deep learning (LSTM/GRU) on wearable physiological sensor data — work that sits right at the intersection of AI and real-world impact.
+My thesis focused on predicting agitation in dementia patients using deep learning (LSTM/GRU) on wearable physiological sensor data, work that sits right at the intersection of AI and real-world impact.
 
 Through my Masters studies I have gained hands-on experience in working with diverse datasets, getting insights that helps in support decision making.
 

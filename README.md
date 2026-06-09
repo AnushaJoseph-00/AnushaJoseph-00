@@ -19,7 +19,7 @@ Since graduating, I have been expanding beyond my degree, independently building
 
 ## Currently
 
-- Building DevOps skills: Docker · Kubernetes · CI/CD (GitHub Actions, Azure DevOps) · Terraform · Bash
+- Building DevOps skills: · Linux/Bash · GitHub Actions · Docker · Kubernetes  · CI/CD  · Terraform · Azure DevOps
 - Actively working on DevOps projects — more coming soon
 - Open to roles in DevOps, MLOps, and data engineering across New Zealand
 
@@ -28,13 +28,29 @@ Since graduating, I have been expanding beyond my degree, independently building
 ## Tech stack
 
 **Cloud & DevOps**
-`Linux/Bash` `GitHub Actions` `Docker` `Kubernetes` `Azure DevOps` `Terraform` `Azure Databricks`
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 **ML & Data**
-`Python` `TensorFlow` `PyTorch` `Scikit-learn` `PySpark` `SQL`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Visualisation & Tools**
-`Power BI` `Streamlit` `Tableau` `LangChain` `ChromaDB`
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 

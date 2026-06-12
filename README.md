@@ -21,7 +21,7 @@ Since graduating, I have been expanding beyond my degree, independently building
 
 - Building DevOps skills: · Linux/Bash · GitHub Actions · Docker · Kubernetes  · CI/CD  · Terraform · Azure DevOps
 - Actively working on DevOps projects — more coming soon
-- Open to roles in DevOps, MLOps, and data engineering across New Zealand
+- Open to roles in DevOps, Cloud, MLOps, and data analyst across New Zealand
 
 ---
 

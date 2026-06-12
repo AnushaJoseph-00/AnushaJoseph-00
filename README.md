@@ -13,7 +13,7 @@ My thesis focused on predicting agitation in dementia patients using deep learni
 
 Through my Masters studies I have gained hands-on experience in working with diverse datasets, getting insights that helps in support decision making.
 
-Since graduating, I have been expanding beyond my degree, independently building skills in DevOps and MLOps because I believe the gap between a good model and a production system is where the real engineering happens.
+Since graduating, I have been expanding beyond my degree, independently building skills in DevOps and Cloud Technologies motivated by a focus on what it takes to move a model from prototype to production.
 
 ---
 

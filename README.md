@@ -1,6 +1,6 @@
 # Hi, I'm Celes Anusha Joseph Kumar 👋
 
-**Majored in Computer & Information Science (Auckland University of Technology) · Electrical Engineer → Data Science → ML Research → DevOps & Cloud → MLOps/AI | Always learning, always building 🛠️ · Eager to contribute to NZ IT sector**
+**Majored in Computer & Information Sciences (Auckland University of Technology) · Electrical Engineer → Data Science → ML Research → DevOps & Cloud → MLOps/AI | Always learning, always building 🛠️ · Eager to contribute to NZ IT sector**
 
 Based in Christchurch, New Zealand
 

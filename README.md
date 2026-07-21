@@ -82,7 +82,6 @@ Are you working in any of these areas? Let's talk! 💬
 
 Always happy to exchange ideas, collaborate, or just have a good tech chat ☕
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnushaJoseph-00&color=blue&style=flat)
 
 ---
 

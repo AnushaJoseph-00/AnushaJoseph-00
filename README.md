@@ -85,4 +85,4 @@ Always happy to exchange ideas, collaborate, or just have a good tech chat ☕
 
 ---
 
-*MSc First Class Honours, AUT 2025 · NZ Resident Visa (full working rights)*
+*MSc First Class Honours, AUT 2025*

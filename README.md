@@ -1,6 +1,6 @@
 # Hi, I'm Celes Anusha Joseph Kumar 👋
 
-**Majored in Computer & Information Sciences (Auckland University of Technology) · Electrical & Electronics Engineer → Data Science → ML Research → DevOps & Cloud → MLOps/AI | Always learning, always building 🛠️ · Eager to contribute to NZ IT sector**
+**Majored in Computer & Information Sciences (Auckland University of Technology) · Electrical & Electronics Engineer >> Data Science >> ML Research >> DevOps & Cloud >> MLOps/AI | Always learning, always building 🛠️ · Eager to contribute to NZ IT sector**
 
 Based in Christchurch, New Zealand
 
@@ -13,14 +13,14 @@ My thesis focused on predicting agitation in dementia patients using deep learni
 
 Through my Masters studies I have gained hands-on experience in working with diverse datasets, getting insights that helps in support decision making.
 
-Since graduating, I have been expanding beyond my degree, independently building skills in DevOps and Cloud Technologies motivated by a focus on what it takes to move a model from prototype to production.
+Since graduating, I have been expanding my knowledge in tech beyond my degree, independently building skills in DevOps and Cloud Technologies motivated by a focus on what it takes to move a model from prototype to production.
 
 ---
 
-## Currently
+## Skills
 
-- Building DevOps skills: · Linux/Bash · GitHub Actions · Docker · Kubernetes  · CI/CD  · Terraform · AWS DevOps · Azure
-- Actively working on DevOps projects - more coming soon......
+- DevOps skills: · Linux/Bash · GitHub Actions · Docker · Kubernetes  · CI/CD  · Terraform · AWS DevOps · Azure
+- Actively working on DevOps projects and more coming soon......
 - Open to roles in DevOps, Cloud, MLOps, and data analyst across New Zealand
 
 ---
@@ -85,4 +85,3 @@ Always happy to exchange ideas, collaborate, or just have a good tech chat ☕
 
 ---
 
-*MSc First Class Honours, AUT 2025*

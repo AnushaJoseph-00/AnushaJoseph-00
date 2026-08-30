@@ -1,19 +1,22 @@
 # Hi, I'm Celes Anusha Joseph Kumar 👋
 
-**Majored in Computer & Information Sciences (Auckland University of Technology) · Electrical & Electronics Engineer >> Data Science >> ML Research >> DevOps & Cloud >> MLOps/AI | Always learning, always building 🛠️ · Eager to contribute to NZ IT sector**
+DevOps & Cloud Engineer | AWS · Terraform · Kubernetes · CI/CD
+MSc Computer & Information Sciences, Auckland University of Technology - 2025
+Based in Christchurch, New Zealand | Open to roles across NZ
 
-Based in Christchurch, New Zealand
+## What I build
+Production-grade AWS infrastructure with Terraform, automated CI/CD pipelines with GitHub Actions and GitLab CI, containerised deployments on ECS Fargate and Kubernetes, 
+and observability stacks with Prometheus and Grafana.
 
+## Currently open to
+DevOps Engineer · Platform Engineer · Site Reliability Engineer
 ---
-## My Journey
 
-I started out as an Electrical and Electronics Engineer, the curiosity about how systems work led me naturally toward software and data. I made a deliberate shift into tech, and my MSc in Computer and Information Science at AUT (Auckland University of Technology) became the foundation that brought it all together.
+## My Journey 
 
-My thesis focused on predicting agitation in dementia patients using deep learning (LSTM/GRU) on wearable physiological sensor data, work that sits right at the intersection of AI and real-world impact.
+I started as an Electrical and Electronics Engineer, which grounded me in systematic, analytical thinking and a deep curiosity about how complex systems work. That curiosity led me to an MSc in Computer and Information Sciences at AUT, where I completed a research thesis applying deep learning to real-world healthcare data.
 
-Through my Masters studies I have gained hands-on experience in working with diverse datasets, getting insights that helps in support decision making.
-
-Since graduating, I have been expanding my knowledge in tech beyond my degree, independently building skills in DevOps and Cloud Technologies motivated by a focus on what it takes to move a model from prototype to production.
+I expanded beyond AI and ML into DevOps and cloud engineering, drawn to the challenge of building reliable infrastructure that integrates AI models and ships software confidently into production. I have since built production-grade AWS infrastructure, CI/CD pipelines, and observability stacks independently, and I am actively seeking my first DevOps engineering role in New Zealand.
 
 ---
 

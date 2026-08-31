@@ -2,6 +2,7 @@
 
 DevOps & Cloud Practitioner | AWS · Terraform · Kubernetes · CI/CD
 MSc Computer & Information Sciences, Auckland University of Technology - 2025
+
 Based in Christchurch, New Zealand | Open to roles across NZ
 
 ## What I build

@@ -23,9 +23,7 @@ I expanded beyond AI and ML into DevOps and cloud engineering, drawn to the chal
 ## Skills
 
 - DevOps skills: · Linux/Bash · GitHub Actions · Docker · Kubernetes  · CI/CD  · Terraform · AWS DevOps · Azure
-- Actively working on DevOps projects and more coming soon......
-- Open to roles in DevOps, Cloud, MLOps, and data analyst across New Zealand
-
+- Currently working towards AWS Solutions Architect Associate (SAA) certification
 ---
 
 ## Tech stack

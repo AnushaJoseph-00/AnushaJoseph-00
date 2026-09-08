@@ -1,7 +1,6 @@
 # Hi, I'm Celes Anusha Joseph Kumar 👋
 
-DevOps & Cloud Practitioner | AWS · Terraform · Kubernetes · CI/CD
-
+DevOps & Cloud Practitioner | AWS · CI/CD · Terraform · AWS ECS Fargate
 
 MSc Computer & Information Sciences, Auckland University of Technology - 2025
 
@@ -12,14 +11,14 @@ Production-grade AWS infrastructure with Terraform, automated CI/CD pipelines wi
 and observability stacks with Prometheus and Grafana.
 
 ## Currently open to
-DevOps Engineer · Platform Engineer · Site Reliability Engineer
+DevOps Engineer · Platform Engineer · Cloud Engineer
 ---
 
 ## My Journey 
 
 I started as an Electrical and Electronics Engineer, which grounded me in systematic, analytical thinking and a deep curiosity about how complex systems work. That curiosity led me to an MSc in Computer and Information Sciences at AUT, where I completed a research thesis applying deep learning to real-world healthcare data.
 
-I expanded beyond AI and ML into DevOps and cloud engineering, drawn to the challenge of building reliable infrastructure that integrates AI models and ships software confidently into production. I have since built production-grade AWS infrastructure, CI/CD pipelines, and observability stacks independently, and I am actively seeking my first DevOps engineering role in New Zealand.
+I expanded beyond AI and ML into DevOps and cloud engineering, drawn to the challenge of building reliable infrastructure that integrates AI models and ships software confidently into production. I have since built production-grade AWS infrastructure, CI/CD pipelines, and observability stacks independently, and I am actively seeking Tech role in New Zealand.
 
 ---
 

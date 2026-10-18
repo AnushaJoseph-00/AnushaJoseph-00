@@ -1,6 +1,6 @@
 # Hi, I'm Celes Anusha Joseph Kumar 👋
 
-DevOps & Cloud Practitioner | AWS · CI/CD · Terraform · AWS ECS Fargate
+Data Analyst, DevOps & Cloud Practitioner | AWS · CI/CD · Terraform · AWS ECS Fargate
 
 MSc Computer & Information Sciences, Auckland University of Technology - 2025
 
@@ -25,7 +25,7 @@ I expanded beyond AI and ML into DevOps and cloud engineering, drawn to the chal
 ## Skills
 
 - DevOps skills: · Linux/Bash · GitHub Actions · Docker · Kubernetes  · CI/CD  · Terraform · AWS DevOps · Azure
-- Currently working towards AWS Solutions Architect Associate (SAA) certification
+-  AWS certified Solutions Architect Associate (SAA) 
 ---
 
 ## Tech stack

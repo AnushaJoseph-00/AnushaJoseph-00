@@ -22,9 +22,10 @@ I expanded beyond AI and ML into DevOps and cloud engineering, drawn to the chal
 
 ## Skills
 
-- DevOps skills: · Linux/Bash · GitHub Actions · Docker · Kubernetes  · CI/CD  · Terraform · AWS DevOps · Azure
--  AWS certified Solutions Architect Associate (SAA) 
----
+* **DevOps & Cloud Skills:** Linux/Bash · GitHub Actions · Docker · Kubernetes · CI/CD · Terraform · AWS DevOps · Azure · AWS Certified Solutions Architect – Associate (SAA)
+
+
+* **Data & Analytics Skills:** Python (Pandas, scikit-learn, PySpark, boto3) · SQL · R · Databricks · Delta Lake · Power BI · Machine Learning (Regression, Random Forest, LSTM, GRU) · Association Rule Mining
 
 ## Tech stack
 

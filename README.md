@@ -7,11 +7,9 @@ MSc Computer & Information Sciences, Auckland University of Technology - 2025
 Based in Christchurch, New Zealand | Open to roles across NZ
 
 ## What I build
-Production-grade AWS infrastructure with Terraform, automated CI/CD pipelines with GitHub Actions and GitLab CI, containerised deployments on ECS Fargate and Kubernetes, 
-and observability stacks with Prometheus and Grafana.
 
-## Currently open to
-DevOps Engineer · Platform Engineer · Cloud Engineer
+Production-grade AWS infrastructure with Terraform, automated CI/CD pipelines with GitHub Actions and GitLab CI, containerised deployments on ECS Fargate and Kubernetes, observability stacks with Prometheus and Grafana, and end-to-end data analytics pipelines, exploratory data analysis models, and business intelligence dashboards using Python, PySpark, SQL, and Power BI.
+
 ---
 
 ## My Journey 
